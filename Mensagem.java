@@ -1,7 +1,8 @@
 public class Mensagem{
     public static void main(String[] args){
-        int idade = 38;
-        System.out.println("Gilson tem " + idade + "+ 12 anos");
+        double media = 7.55;
+        System.out.printf("Média = %.2f",media);
+
 
 
         
